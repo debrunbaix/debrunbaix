@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :o: 0x2brunbaix
+# :o: 0x2brunbaix :o:
+
+## :o: Whoami
 
 🎓 **Études** : Je suis actuellement en master de cybersécurité à `SupDeVinci`, une formation qui couvre les bases de la cyber et de la gouvernance.
 
@@ -22,3 +24,7 @@ Here are some ideas to get you started:
 👨‍💻 **Projets Personnels et Auto-Formation** : Je fais beaucoup de `Python` et je me forme continuellement sur les technologies de bas niveau. J'ai acquis quelques compétences en `C`, `assembleur`, ainsi que dans les domaines du `reverse engineering` et de l'`exploitation binaire`. 
 
 🎯 **Objectif Professionnel** : Mon but est d'obtenir un poste dans la cyber spécialisé dans la `sécurité applicative`
+
+## :o: Skills
+
+<i class="devicon-python-plain"></i>
