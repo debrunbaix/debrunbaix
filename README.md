@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 
 ## :o: Skills
 
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg"/>     
