@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ## :o: Skills
 
-<i class="devicon-python-plain"></i>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
