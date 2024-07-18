@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # :o: 0x2brunbaix :o:
 
+![](/assets/banière.png)
+
 ## :o: Whoami
 
 🎓 **Études** : Je suis actuellement en master de cybersécurité à `SupDeVinci`, une formation qui couvre les bases de la cyber et de la gouvernance.
