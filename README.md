@@ -48,7 +48,7 @@ Voici des ressources que j'utilise pour apprendre l'assembleur:
 
 - [Vidéos](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
 
-- [Chaine youtube][https://www.youtube.com/@LowLevelLearning]
+- [Chaine youtube](https://www.youtube.com/@LowLevelLearning)
 
 ## :o: Contact
 
