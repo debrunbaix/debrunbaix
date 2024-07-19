@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 <img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg"/>
 <img alt="bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
 
-## :o: Personal work
+## :o: Resource I use 
 
 ### Assembly
-
-Voici des ressources que j'utilise pour apprendre l'assembleur:
 
 - [Table de syscall](https://syscalls.w3challs.com/)
 
@@ -49,6 +47,20 @@ Voici des ressources que j'utilise pour apprendre l'assembleur:
 - [Vidéos](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
 
 - [Chaine youtube](https://www.youtube.com/@LowLevelLearning)
+
+### Binary Exploitation
+
+- [RootMe](https://www.root-me.org/?lang=fr)
+
+- [Pwn.College](https://pwn.college/)
+
+- [Exploit Education](https://exploit.education/)
+
+- [Pwnable.kr](https://pwnable.kr/)
+
+- [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
+
+- [LiveOverflow](https://www.youtube.com/@LiveOverflow/videos)
 
 ## :o: Contact
 
