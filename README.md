@@ -35,3 +35,31 @@ Here are some ideas to get you started:
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>
 <img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg"/>
 <img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
+
+## :o: Personal work
+
+### Assembly
+
+- Base du x86 acquise :
+
+    - :heavy_check_mark: Les registres et types de donnés
+
+    - :heavy_check_mark: Les oprération arithmétique
+
+    - :heavy_check_mark: Les procédures
+
+    - :heavy_check_mark: Les sections
+
+    - :heavy_check_mark: Désassembler
+
+    - :heavy_check_mark: Les syscalls
+
+    - :heavy_check_mark: Les boucles
+
+    - :white_square_button: la Pile
+
+## :o: Contact
+
+**Mail** : sasha.deroubaix.pro@proton.me
+
+**Discord** : debrunbaix
