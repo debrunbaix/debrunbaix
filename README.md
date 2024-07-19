@@ -40,26 +40,18 @@ Here are some ideas to get you started:
 
 ### Assembly
 
-- Base du x86 acquise :
+Voici des ressources que j'utilise pour apprendre l'assembleur:
 
-    - :heavy_check_mark: Les registres et types de donnés
+- [Table de syscall](https://syscalls.w3challs.com/)
 
-    - :heavy_check_mark: Les oprération arithmétique
+- [HackTheBox Academy](https://academy.hackthebox.com/module/details/85)
 
-    - :heavy_check_mark: Les procédures
+- [Vidéos](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
 
-    - :heavy_check_mark: Les sections
-
-    - :heavy_check_mark: Désassembler
-
-    - :heavy_check_mark: Les syscalls
-
-    - :heavy_check_mark: Les boucles
-
-    - :white_square_button: la Pile
+- [Chaine youtube][https://www.youtube.com/@LowLevelLearning]
 
 ## :o: Contact
 
-**Mail** : sasha.deroubaix.pro@proton.me
+**Mail** : `sasha.deroubaix.pro@proton.me`
 
-**Discord** : debrunbaix
+**Discord** : `debrunbaix`
