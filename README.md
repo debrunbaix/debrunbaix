@@ -1,18 +1,3 @@
-<!--
-**debrunbaix/debrunbaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # :o: 0x2brunbaix :o:
 
 ![](/assets/banière.png)
@@ -21,7 +6,7 @@ Here are some ideas to get you started:
 
 🎓 **Études** : Je suis actuellement en master de cybersécurité à `SupDeVinci`, une formation qui couvre les bases de la cyber et de la gouvernance.
 
-💼 **Expérience Professionnelle** : Je suis apprenti ingénieur sécurité chez `Cloud Temple`, j'y fais du developpement d'outil, de la gouvernance et de l'automatisation.
+💼 **Expérience Professionnelle** : Je suis SOC Analyst chez Cyna, j'y fais du traitement d'alertes et du developpement Python pour automatisé ce qui est automatisable dans le SOC.
 
 👨‍💻 **Projets Personnels et Auto-Formation** : Je fais beaucoup de `Python` et je me forme continuellement sur les technologies de bas niveau. J'ai acquis quelques compétences en `C`, `assembleur`, ainsi que dans les domaines du `reverse engineering` et de l'`exploitation binaire`. 
 
@@ -36,7 +21,7 @@ Here are some ideas to get you started:
 <img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg"/>
 <img alt="bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
 
-## :o: Resource I use 
+<!-- ## :o: Resource I use 
 
 ### Assembly
 
@@ -60,7 +45,7 @@ Here are some ideas to get you started:
 
 - [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 
-- [LiveOverflow](https://www.youtube.com/@LiveOverflow/videos)
+- [LiveOverflow](https://www.youtube.com/@LiveOverflow/videos) -->
 
 ## :o: Contact
 
