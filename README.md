@@ -1,8 +1,8 @@
-# :o: 0x2brunbaix :o:
+# 0x2brunbaix
 
 ![](/assets/banière.png)
 
-## :o: Whoami
+## Whoami
 
 🎓 **Études** : Je suis actuellement en master de cybersécurité à `SupDeVinci`, une formation qui couvre les bases de la cyber et de la gouvernance.
 
@@ -12,7 +12,7 @@
 
 🎯 **Objectif Professionnel** : Mon but est d'obtenir un poste dans la cyber spécialisé dans la `sécurité applicative` & `sécurité Iot/systèmes embarqué`.
 
-## :o: Skills
+## Skills
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="nvim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/neovim/neovim-original.svg"/>
@@ -21,7 +21,7 @@
 <img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg"/>
 <img alt="bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
 
-## :o: Contact
+## Contact
 
 **Mail** : `sasha.deroubaix.pro@proton.me`
 
