@@ -2,7 +2,7 @@
 
 ## Whoami
 
-🎓 **Études** : J'ai passé la piscine de `0x41` d'Otéria et vais donc y faire un Master dans lequel je ferrais du Reverse sur tous type de sytèmes et de la recherche de vulnérabilité.
+🎓 **Études** : Je suis en Master [x41](https://x41.fr/) à Otéria dans lequel j'étudie la recherche de vulnérabilitée.
 
 💼 **Expérience Professionnelle** : Je suis développeur pour le SOC de [Cyna](https://cyna-it.fr/).
 
