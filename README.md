@@ -1,4 +1,4 @@
-# 0x2brunbaix
+# Debrunbaix
 
 ## Whoami
 
@@ -8,7 +8,7 @@
 
 ## Contact
 
-**Blog** : https://debrunbaix.github.io/
+**Blog** : https://blog.0x2brunbaix.re/
 
 **Mail** : `sasha.deroubaix.pro@proton.me`
 
