@@ -8,7 +8,7 @@
 
 ## Contact
 
-**Blog** : https://blog.0x2brunbaix.re/
+**Blog** : https://blog.debrunbaix.tech/
 
 **Mail** : `sasha.deroubaix.pro@proton.me`
 
