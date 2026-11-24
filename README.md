@@ -4,7 +4,7 @@
 
 🎓 **Études** : Je suis en Master [x41](https://x41.fr/) à Otéria dans lequel j'étudie la recherche de vulnérabilitée.
 
-💼 **Expérience Professionnelle** : Développement offenssif.
+💼 **Expérience Professionnelle** : Développement offenssif à Synacktiv.
 
 ## Contact
 
